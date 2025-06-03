@@ -1,4 +1,3 @@
-# transportaion-of-cyanobacteria-and-cyano-toxins
 # Cyanobacteria Forecasting Pipeline
 
 ## Project Overview
@@ -69,4 +68,10 @@ Follow these steps to set up and run the Cyanobacteria Forecasting Pipeline on y
 
 This script will perform data loading, cleaning, model training, and generate forecasts. Results (e.g., forecast plots, performance metrics) will be saved to a designated `output/` directory.
 
-## Project Structure (Example)
+## Impact
+
+This project provides a critical tool for environmental agencies and researchers to:
+* **Proactively monitor** water quality for cyanobacteria and cyanotoxins, especially in sensitive areas like the Raritan River Basin.
+* **Enable early warning systems** for potential public health risks.
+* **Support data-driven decision-making** for resource management and intervention strategies, moving beyond reactive measures.
+* Improve efficiency in environmental data analysis and forecasting processes.
